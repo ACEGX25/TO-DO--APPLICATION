@@ -59,6 +59,7 @@ The JavaScript file handles all the interactive aspects of the app, including ad
 - `toggleComplete(taskId)`: Marks a task as complete or incomplete.
 
 ## Screenshot
+![main-interface](https://github.com/ACEGX25/TO-DO--APPLICATION/assets/143728245/c2416018-3118-4547-a0dc-7a48a1da76d4)
 
 ### Main Interface
 
